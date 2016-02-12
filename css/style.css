@@ -1,0 +1,67 @@
+
+header {
+    width: 100%;
+    height: 100%;
+}
+h5{
+    margin-bottom: 0px;
+}
+.top{
+    height: 40px;
+}
+.btn-default{
+    border-color: transparent;
+}
+.btn-default:hover{
+    color: white;
+    border-color: transparent;
+    background-color: #ff8498;
+}
+.header{
+    height: 650px;
+    background: url("../img/header_bg.jpg") center no-repeat;
+    background-size: cover;
+}
+.sub_menu{
+    padding-top: 0px;
+    color: #bcc9ca;
+    font-size: 10px;
+}
+.menu1{
+    margin-top: 20px;
+}
+.menu{
+    margin-bottom: 20px;
+
+}
+.dishes_header{
+    margin-top: 60px;
+    font-family: Aharoni;
+}
+.dishes_header_glyph{
+    margin-top: 50px;
+}
+.dishes_text{
+    margin-top: 20px;
+}
+.gallery_header{
+    margin-top: 60px;
+    font-family: Aharoni;
+}
+.gallery_header_glyph{
+    margin-top: 40px;
+}
+.gallery{
+    height: 433px;
+    background: url("../img/gallery_img.jpg") center no-repeat;
+    background-size: cover;
+}
+.footer{
+    margin-top: 70px;
+    font-family: Aleo;
+    color: white;
+    background-color: #3B3B3B;
+}
+.footer a {
+    color: white;
+}
